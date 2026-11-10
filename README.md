@@ -1,21 +1,42 @@
-//////////////////////////////////////////////ENG//////////////////////////////////////////////
+# Diplom — Request Support System
 
-The diploma project was developed using WinForms, C# and SQL;
-Project's main goal is to support and process user requests.
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![WinForms](https://img.shields.io/badge/WinForms-512BD4)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=microsoftsqlserver&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-used-blueviolet)
 
-Key features include:
-1. Database interaction
-2. SHA256 encryption
-3. Object-oriented programming
-4. Language-Integrated Query (LINQ)
+[English](#english) · [Русский](#русский)
 
-//////////////////////////////////////////////RU///////////////////////////////////////////////
+---
 
-Дипломный проект выполнен на WinForms с использованием языков C# и SQL; 
-Цель проекта - обеспечить поддержку и обработку заявок пользователей.
+## English
 
-В работе присутствуют:
-1. Работа с базами данных
-2. Шифрование SHA256
-3. Объектно-ориентированное программирование
-4. Запрос интегрированного языка (LINQ)
+### About
+A diploma project: a WinForms application in C# with an SQL database.
+Its goal is to support and process user requests.
+
+### Features
+- **Database interaction:** storing and retrieving requests and users
+- **SHA256 hashing:** protecting sensitive data such as passwords
+- **OOP:** a structured, extensible codebase
+- **LINQ:** concise data queries and filtering
+
+### Tech
+C# · WinForms · SQL
+
+---
+
+## Русский
+
+### О проекте
+Дипломный проект: приложение на WinForms (C#) с базой данных SQL.
+Цель — поддержка и обработка заявок пользователей.
+
+### Возможности
+- **Работа с базой данных:** хранение и получение заявок и пользователей
+- **Хеширование SHA256:** защита чувствительных данных, например паролей
+- **ООП:** структурированный и расширяемый код
+- **LINQ (язык интегрированных запросов):** лаконичные выборки и фильтрация данных
+
+### Технологии
+C# · WinForms · SQL
